@@ -1,5 +1,5 @@
 # module-frontend-cancel-order
-Frontend Cancel Order extension free allows customers to cancel their orders from the front-end and notify the admin of the order cancellation via Email.
+Customers can cancel their orders from the front-end and notify the admin of the order cancellation via Email with the Magento 2 Frontend Cancel Order extension
 
 Please go to https://magehq.com/magento-2-frontend-cancel-order.html download free extension
 
